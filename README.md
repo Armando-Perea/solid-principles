@@ -29,5 +29,6 @@ Interface Segregation
 
 
 Dependency Inversion
-	Not create instances in our high level module but let another modules to give those dependencies.
+	
+  Not create instances in our high level module but let another modules to give those dependencies.
 
